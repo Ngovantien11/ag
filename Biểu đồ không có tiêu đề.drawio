@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T06:13:08.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="mK3lzT5ougx2FD7BwL3k" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T06:34:06.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="fiIplI5snwfMPtV3tGSC" type="github">
   <diagram id="6JDCqNisvBgAfbWOYaAh" name="Trang-1">
     <mxGraphModel dx="1887" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -126,9 +126,6 @@
         <mxCell id="czRX9-merr9mvdvp56qM-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.029;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="czRX9-merr9mvdvp56qM-19" target="czRX9-merr9mvdvp56qM-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="czRX9-merr9mvdvp56qM-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="czRX9-merr9mvdvp56qM-19" target="czRX9-merr9mvdvp56qM-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="czRX9-merr9mvdvp56qM-19" value="Khách hàng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="790" width="120" height="60" as="geometry" />
         </mxCell>
@@ -186,7 +183,7 @@
             <mxPoint x="1430" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="czRX9-merr9mvdvp56qM-64" value="Tư vấn" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="czRX9-merr9mvdvp56qM-64" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="580" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
